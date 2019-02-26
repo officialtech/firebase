@@ -7,7 +7,7 @@ di = {
     "better_half":"asmita",
       "child1": "misha mishra",
       "child2":"riyan mishra",
-      "girl_fr":"sita saini",
+      "girl_fr":"rose",
       "affair":"kusu", "ex":"simran",
       }
 
