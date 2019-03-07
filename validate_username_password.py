@@ -1,4 +1,5 @@
 
+# before this all, you should have to put data on firebase
 
 user_nm = input("Username: ")
 pass_wd = input("Password: ")
