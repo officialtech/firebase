@@ -1,6 +1,6 @@
 from firebase.firebase import FirebaseApplication
 
-object = FirebaseApplication("https://officialtech-team.firebaseio.com/")
+object = FirebaseApplication("url")
 
 getted = object.get("student/student_details", None)
 
